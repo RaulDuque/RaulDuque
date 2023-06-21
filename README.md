@@ -2,7 +2,7 @@
 
 
 
-- 🎓Sou um estudante do 8º de sistemas de informação.
+- 🎓Sou formado em sistemas de informação.
 - 📱 Desenvolvedor Mobile.
 - 🖥🖱 Desenvolvedor Web.
 
