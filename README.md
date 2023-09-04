@@ -8,8 +8,8 @@
 
 <div style="display: inline_block">
 <a href="https://github.com/RaulDuque">
-    <img align="center" alt="Raul Duque's GitHub stats" src="[https://github-readme-statsvercel.app](https://github-readme-stats-sigma-five.vercel.app
-)/api?username=RaulDuque&show_icons=true&count_private=true&hide_border=true&bg_color=45,000,152331&title_color=000080&text_color=fff&icon_color=000080" />
+    <img align="center" alt="Raul Duque's GitHub stats" src="[[https://github-readme-statsvercel.app](https://github-readme-stats-sigma-five.vercel.app
+)/api?username=RaulDuque&show_icons=true&count_private=true&hide_border=true&bg_color=45,000,152331&title_color=000080&text_color=fff&icon_color=000080](https://github-readme-stats.vercel.app/api/top-langs/?username=raulduque&layout=compact&langs_count=10&hide_border=true&bg_color=45,152331,000&title_color=000080&text_color=fff&icon_color=000080)" />
     <img align="center" alt="Raul Duque's Top Languages" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-sigma-five.vercel.app)/api/top-langs/?username=RaulDuque&layout=compact&langs_count=10&hide_border=true&bg_color=45,152331,000&title_color=000080&text_color=fff&icon_color=000080" />
 </a>
 </div>
